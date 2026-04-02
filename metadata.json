@@ -1,0 +1,7 @@
+{
+  "name": "1UP (续命)",
+  "description": "A gamified health companion for students. Turn every healthy habit into a 1UP for your life. Features RPG-style stats (HP/SAN), AI buddy, and pixel-art visuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
